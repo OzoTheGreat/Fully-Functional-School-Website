@@ -1,5 +1,5 @@
 # Fully Functional School Website
- This is a recreation of a school website. It makes use of CRUD throughout majority of the website. Theres 4 different user levels. Admin/Researcher/Student/Faculty... The use cases for each user can be found in the System Manual.
+ This is a recreation of a school website. It makes use of CRUD throughout majority of the website. Theres 4 different user levels. Admin/Researcher/Student/Faculty... The use cases for each user can be found in the [System Manual](https://github.com/OzoTheGreat/Fully-Functional-School-Website/blob/main/User%20Manual.pdf).
 
 # Website In Action
 [XYZ Univeristy](http://www.xyzuniversity.net)
