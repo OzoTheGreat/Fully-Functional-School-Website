@@ -4,7 +4,7 @@
 # Website In Action
 [XYZ Univeristy](http://www.xyzuniversity.net)
 </br>
-[Login](http://www.xyzuniversity.net/login.php)
+[Login](http://www.xyzuniversity.net/panel/login.php)
 
 # Logins
 - **[Admin]** *Email*- idumphry@XYZ.edu *Password*- cUMYhfV
