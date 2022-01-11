@@ -12,7 +12,7 @@
 - **[Faculty]** *Email*- akneal@XYZ.edu *Password*- fI5nFbkk
 - **[Researcher]** *Email*- gshead@XYZ.com *Password*- 1oTzVE
 
-* **PLEASE** * have respect when using this website. *You know what Im talking about*
+* **PLEASE** have respect when using this website. *You know what Im talking about*
 
 Thanks,
 
