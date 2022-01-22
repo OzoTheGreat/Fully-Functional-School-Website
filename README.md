@@ -2,6 +2,9 @@
  This is a recreation of a school website. It makes use of CRUD throughout majority of the website. Theres 4 different user levels. Admin/Researcher/Student/Faculty... The use cases for each user can be found in the [System Manual](https://github.com/OzoTheGreat/Fully-Functional-School-Website/blob/main/User%20Manual.pdf).
 
 # Website In Action
+
+[Website](https://im6.ezgif.com/tmp/ezgif-6-133966ccb1.gif)
+
 [XYZ Univeristy](http://www.xyzuniversity.net)
 </br>
 [Login](http://www.xyzuniversity.net/panel/log-in.php)
