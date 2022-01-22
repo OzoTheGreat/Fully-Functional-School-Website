@@ -3,7 +3,7 @@
 
 # Website In Action
 
-[Website](https://im6.ezgif.com/tmp/ezgif-6-133966ccb1.gif)
+![Website](https://github.com/OzoTheGreat/Fully-Functional-School-Website/blob/main/images/xyzuniversity.gif)
 
 [XYZ Univeristy](http://www.xyzuniversity.net)
 </br>
